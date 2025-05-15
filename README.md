@@ -16,7 +16,7 @@ createUser for POST
 Api Gateway URL: https://bzxyrojo0m.execute-api.eu-west-1.amazonaws.com/dev/users
 
 ### GET
-example request:
+example request:  
 GET https://bzxyrojo0m.execute-api.eu-west-1.amazonaws.com/dev/users?user_id=c8c62d42-c3ec-4fb6-80c4-f5a325917ccd
 
 Response:
@@ -29,7 +29,7 @@ Response:
 ```
 
 ### POST
-Example request:
+Example request:  
 POST https://bzxyrojo0m.execute-api.eu-west-1.amazonaws.com/dev/users  
 Body:
 ```json
