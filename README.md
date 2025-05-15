@@ -31,6 +31,7 @@ Response:
 ### POST
 Example request:
 POST https://bzxyrojo0m.execute-api.eu-west-1.amazonaws.com/dev/users
+Body:
 ```json
 {
   "first_name": "David",
