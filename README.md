@@ -1,3 +1,5 @@
+<pre> <code> ```json { "name": "example-project", "version": "1.0.0", "dependencies": { "express": "^4.18.2" } } ``` </code> </pre>
+
 # Python and AWS test answers
 
 ## quiz
@@ -27,10 +29,12 @@ Response:
 ### POST
 Example request:
 POST https://bzxyrojo0m.execute-api.eu-west-1.amazonaws.com/dev/users
+```json
 {
   "first_name": "David",
   "age": 24
 }
+```
 Response:
 {
     "user_id": "17535575-f1ad-445c-ae8e-317ddce4bd0e"
