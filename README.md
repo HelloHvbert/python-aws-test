@@ -9,7 +9,7 @@ It contains theory questions with answers in txt file
 There is updated version of problem_solving.py
 
 ## lambda
-There functions are used in lambdas.
+There are functions used in lambdas.
 getUser for GET
 createUser for POST
 
